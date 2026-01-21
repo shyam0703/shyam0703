@@ -1,14 +1,15 @@
-# 👋✨ Hi there, I'm **Laxman Konukati**!
+# 👋✨ Hi there, I'm **Shyam Bejju**!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=60&lines=Python+Data+Analytics;;AI+Researcher;Full-Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=60&lines=Python+Data+Analytics;;AI+Researcher;Data Analyst;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/laxman-konukati-6856092a5/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/KonukantiLaxman)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:laxmankonukati@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/www.linkedin.com/in/bejju-shyam-2406482ba)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)]
+(https://github.com/shyam0703)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:bejjushyambejju@gmail.com)
 
 </div>
 
@@ -16,13 +17,13 @@
 ## 👨‍💻 About Me
 
 
-🎓 **B.Tech in Computer Science and Engineering** from **TKR College of Engineering and Technology (TKRC)** with a CGPA of **7.71**.\
+🎓 **B.Tech in Computer Science and Engineering(AI/ML)** from **TKR College of Engineering and Technology (TKRC)** with a CGPA of **8.0**.\
 💡  passionate **Python & Data Analytics** learner with interest in **data visualization, machine learning, and automation**.\
 📊 I love turning raw data into meaningful insights.\
 🧠  Currently exploring **Pandas, NumPy, Matplotlib, Seaborn, and Power BI**.\
 💡 Open to collaborate on **data analytics and automation projects**.\
 🚀 Always curious, always learning — from building APIs to training AI models!.\
-📫 Reach me at **laxmankonukati93@gmail.com**!
+📫 Reach me at **bejjushyambejju@gmail.com**!
 
 ---
 ## 🚀 **Tech Stack:**
@@ -89,7 +90,7 @@
 ### 🧠 Data Analytics Skills
 
 🧩 **Data Handling:** Pandas, NumPy.\
-📊 **Visualization:** Matplotlib, Seaborn, Plotly.\
+📊 **libraries:** Matplotlib, Seaborn, Plotly.\
 🗄️ **Databases:** MySQL, SQLite SQLite.\
 🤖 **Machine Learning (Basics):** Scikit-learn.\
 📈 **Dashboard Tools:** Power BI, Excel Analytics.\
@@ -97,38 +98,37 @@
 
 ---
 ### 🏆 Achievements & Certifications
-• Certification of completion of Python from Udemy.\
-📄 Certification of ”Published research paper titled ’Silent saviour: Deep Learning Neural Network for Cyberbulling
-  Detection in Social Media’ in the International Journal of Basic and Applied Research”.\
+• Certification of completion of Python with Machine learning-Great learning.\
+📄 Certification of completion on EISystems-Machine learning internship.\
   
 
 ---
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KonukantiLaxman&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KonukantiLaxman&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KonukantiLaxman&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=shyam0703&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shyam0703&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shyam0703&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-[![](https://visitcount.itsvg.in/api?id=KonukantiLaxman&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=shyam0703&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
 ## 🏆 **GitHub Trophies**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KonukantiLaxman&theme=onestar"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shyam0703&theme=onestar"/>
 </p>
 
 ---
 
 ## 📬 **Connect With Me**
 
-📧 [laxmankonukati93@gmail.com](mailto:laxmankonukati93@gmail.com)  
-📞 [+91 7989574036](tel:+917989574036)   
-💼 [LinkedIn](https://www.linkedin.com/in/konukati-laxman-6856092a5/)  
-🐙 [GitHub](https://github.com/KonukatiLaxman)
+📧 [bejjushyambejju@gmail.com](mailto:bejjushyambejju@gmail.com)  
+📞 [+91 8978196208](tel:+918978196208)   
+💼 [LinkedIn](https://www.linkedin.com/in/bejju-shyam-2406482ba/)  
+🐙 [GitHub](https://github.com/shyam0703)
 
 
 ---
