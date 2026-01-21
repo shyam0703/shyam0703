@@ -92,7 +92,7 @@
 ---
 ### 🏆 Achievements & Certifications
 • Certification of completion of Python with Machine learning-Great learning.\
-• Certification of completion on EISystems-Machine learning internship.\
+• Certification of completion on EISystems-Machine learning internship.
   
 
 ---
