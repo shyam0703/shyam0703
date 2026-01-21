@@ -1,4 +1,4 @@
-Hi there, I'm *Laxman Konukati*!
+# 👋✨ Hi there, I'm **Laxman Konukati**!
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=60&lines=Python+Data+Analytics;;AI+Researcher;Full-Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
@@ -16,16 +16,16 @@ Hi there, I'm *Laxman Konukati*!
 ## 👨‍💻 About Me
 
 
-🎓 *B.Tech in Computer Science and Engineering* from *TKR College of Engineering and Technology (TKRC)* with a CGPA of *7.71*.\
-💡  passionate *Python & Data Analytics* learner with interest in *data visualization, machine learning, and automation*.\
+🎓 **B.Tech in Computer Science and Engineering** from **TKR College of Engineering and Technology (TKRC)** with a CGPA of **7.71**.\
+💡  passionate **Python & Data Analytics** learner with interest in **data visualization, machine learning, and automation**.\
 📊 I love turning raw data into meaningful insights.\
-🧠  Currently exploring *Pandas, NumPy, Matplotlib, Seaborn, and Power BI*.\
-💡 Open to collaborate on *data analytics and automation projects*.\
+🧠  Currently exploring **Pandas, NumPy, Matplotlib, Seaborn, and Power BI**.\
+💡 Open to collaborate on **data analytics and automation projects**.\
 🚀 Always curious, always learning — from building APIs to training AI models!.\
-📫 Reach me at *laxmankonukati93@gmail.com*!
+📫 Reach me at **laxmankonukati93@gmail.com**!
 
 ---
-## 🚀 *Tech Stack:*
+## 🚀 **Tech Stack:**
 
 ## 🧠 Core Languages
 <p align="left">
@@ -79,25 +79,25 @@ Hi there, I'm *Laxman Konukati*!
 
 ---
 
-## 💼 *Internships & Experience*
+## 💼 **Internships & Experience**
 
 | Role | Organization | Duration |
 |------|---------------|-----------|
-| 📊 *Junior Analyist Intern* | Vangrove Tech | Nov 2025 – Present |
+| 📊 **Junior Analyist Intern** | Vangrove Tech | Nov 2025 – Present |
 
 ---
 ### 🧠 Data Analytics Skills
 
-🧩 *Data Handling:* Pandas, NumPy.\
-📊 *Visualization:* Matplotlib, Seaborn, Plotly.\
-🗄️ *Databases:* MySQL, SQLite SQLite.\
-🤖 *Machine Learning (Basics):* Scikit-learn.\
-📈 *Dashboard Tools:* Power BI, Excel Analytics.\
-📘 *Reporting:* Jupyter Notebook, Google Colab.
+🧩 **Data Handling:** Pandas, NumPy.\
+📊 **Visualization:** Matplotlib, Seaborn, Plotly.\
+🗄️ **Databases:** MySQL, SQLite SQLite.\
+🤖 **Machine Learning (Basics):** Scikit-learn.\
+📈 **Dashboard Tools:** Power BI, Excel Analytics.\
+📘 **Reporting:** Jupyter Notebook, Google Colab.
 
 ---
 ### 🏆 Achievements & Certifications
-* Certification of completion of Python from Udemy.\
+• Certification of completion of Python from Udemy.\
 📄 Certification of ”Published research paper titled ’Silent saviour: Deep Learning Neural Network for Cyberbulling
   Detection in Social Media’ in the International Journal of Basic and Applied Research”.\
   
@@ -115,7 +115,7 @@ Hi there, I'm *Laxman Konukati*!
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
-## 🏆 *GitHub Trophies*
+## 🏆 **GitHub Trophies**
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KonukantiLaxman&theme=onestar"/>
@@ -123,7 +123,7 @@ Hi there, I'm *Laxman Konukati*!
 
 ---
 
-## 📬 *Connect With Me*
+## 📬 **Connect With Me**
 
 📧 [laxmankonukati93@gmail.com](mailto:laxmankonukati93@gmail.com)  
 📞 [+91 7989574036](tel:+917989574036)   
@@ -135,4 +135,4 @@ Hi there, I'm *Laxman Konukati*!
 
 <div align="center">
 
-⭐ If you like my work, don’t forget to star my repositories! 🌟
+⭐ *If you like my work, don’t forget to star my repositories!* 🌟
